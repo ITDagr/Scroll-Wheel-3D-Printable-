@@ -1,4 +1,5 @@
-<img width="2160" height="1130" alt="Wheel_v1_2026-Nov-15_08-12-56AM-000_CustomizedView18119670742" src="https://github.com/user-attachments/assets/e033335d-82d9-494f-a820-cfe2ecd12110" />
+<img width="2160" height="1130" alt="Wheel_v1_2026-Nov-15_08-16-03AM-000_CustomizedView11762952111" src="https://github.com/user-attachments/assets/ddf2ae8c-7f91-480e-9e50-1c434e002751" />
+
 3D Printed Scroll Wheel-
 A diametric magnet endless scroll wheel based on the Adafruit ESP32 Feather with 4 PIN JST AS5600 Magnetic Sensor and 400 MAH Battery
 Parts List:
